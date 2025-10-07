@@ -27,4 +27,5 @@ ros2 run rqt_image_view rqt_image_viewを実行したが、動画が表示され
 
 	1-10. rqtのプルダウンの/image_rawに切り替えても表示がされない。publishとsubscribeはできていることが確認できたが画像が表示できない。
 	
+	1-11. どうやってもrqtやrviz2で動画を確認できなかった。WSLでのやり方で何が足りないのかがわからない。いったん、今日はあきらめる。
 2. roslibjsでRPLiDARのスキャンデータを取得し、既存のlidar.jsに組み込めるか試す。
